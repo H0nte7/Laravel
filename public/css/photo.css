@@ -1,0 +1,37 @@
+.header .header-content .logo a {
+    background-image: url("site/logo/logo.png");
+}
+.main .direct .direct-popular .dir1{
+    background-image: url("site/direct/capital.png");
+}
+.main .direct .direct-popular .dir2{
+    background-image: url("site/direct/mountains.png");
+}
+.main .direct .direct-popular .dir3{
+    background-image: url("site/direct/history.png");
+}
+.main .direct .direct-popular .dir4{
+    background-image: url("site/direct/see.png");
+}
+.main .city .city1{
+    background-image: url("site/city/kyiv.png");
+}
+.main .city .city2{
+    background-image: url("site/city/kharkov.png");
+}
+.main .city .city3{
+    background-image: url("site/city/lviv.png");
+}
+.main .city .city4{
+    background-image: url("site/city/vinnytsia.png");
+}
+.main .city .city5{
+    background-image: url("site/city/dnipro.png");
+}
+.main .city .city6{
+    background-image: url("site/city/odessa.png");
+}
+/*.main .publication-home .add-photo .cover {
+    background-image: url("site/add/preview.svg");
+}*/
+
